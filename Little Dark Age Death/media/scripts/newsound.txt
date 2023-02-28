@@ -1,0 +1,19 @@
+module Base
+{
+	sound PlayerDied
+	{
+		category = Player,
+		clip
+		{
+			file = media/sound/Little Dark Age TikTok Remix.ogg,
+		}
+	}
+	sound PlayerDied
+	{
+		category = Player,
+		clip
+		{
+			file = media/sound/Little Dark Age TikTok Remix.wav,
+		}
+	}
+}
